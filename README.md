@@ -15,6 +15,13 @@ npm install
 cp .env.example .env
 php artisan key:generate
 ```
+Then set up the env files , with your details , like setting up the database connection and mail connection
+
+Then migrate the database :
+
+``` bash
+php artisan migrate 
+```
 
 Then launch the server:
 
