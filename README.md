@@ -1,4 +1,4 @@
-# Laravel Sample
+# documentation Sample
 ## Getting started
 
 This project runs with Laravel version 10.47.0.
@@ -23,3 +23,11 @@ php artisan serve
 ```
 
 The Laravel sample project is now up and running! Access it at http://localhost:8000 or http://127.0.0.1:8000.
+
+Then launch the api documentation:
+Then Api documentation , is been documentated by  swagger ui {{ darkaonline/l5-swagger }}
+
+Then to acsess the api's  visit {{ url }}/api/documentation
+
+
+Make sure to replace {{ url }} with the actual URL of your Laravel application and /api/documentation with the correct route for accessing the Swagger documentation based on your configuration.
