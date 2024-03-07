@@ -25,9 +25,9 @@ php artisan serve
 The Laravel sample project is now up and running! Access it at http://localhost:8000 or http://127.0.0.1:8000.
 
 Then launch the api documentation:
-Then Api documentation , is been documentated by  swagger ui {{ darkaonline/l5-swagger }}
+The Api documentation , is been documentated by SWAGGER UI  {{ darkaonline/l5-swagger }}
 
-Then to acsess the api's  visit {{ url }}/api/documentation
+Then to acsess the api's  visit {{ url }}/api/documentation {{ http://127.0.0.1:8000/api/documentation }}
 
 
 Make sure to replace {{ url }} with the actual URL of your Laravel application and /api/documentation with the correct route for accessing the Swagger documentation based on your configuration.
