@@ -12,6 +12,7 @@ Assuming you don't have this installed on your machine: [Laravel](https://larave
 ```bash
 git clone https://github.com/Demenkesh/apexnetwork.git
 ```
+## How to install it .
 
 ```bash
 # install dependencies
@@ -25,13 +26,13 @@ php artisan key:generate
 
 Then set up the env files , with your details , like setting up the database connection and mail connection
 
-Then migrate the database :
+## Then migrate the database :
 
 ```bash
 php artisan migrate
 ```
 
-Then launch the server:
+## Then launch the server:
 
 ```bash
 php artisan serve
