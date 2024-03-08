@@ -7,6 +7,12 @@ This project runs with php version 8.1.
 
 Assuming you don't have this installed on your machine: [Laravel](https://laravel.com), [Composer](https://getcomposer.org).
 
+## How to clone the code.
+
+```bash
+git clone https://github.com/Demenkesh/apexnetwork.git
+```
+
 ```bash
 # install dependencies
 composer update
