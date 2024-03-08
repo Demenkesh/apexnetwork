@@ -49,7 +49,7 @@ Make sure to replace {{ url }} with the actual URL of your Laravel application a
 
 ## How to run the tests.
 I show only how to use swagger ui in api documentation , especially for on where to add the access token for login
-
+ ## copy the link and paste in the browser , for download 
 ```bash
 https://megascrypto.com/public/video/apexnetwork.mov
 ```
