@@ -40,8 +40,8 @@ Then to acsess the api's visit {{ url }}/api/documentation {{ http://127.0.0.1:8
 
 Make sure to replace {{ url }} with the actual URL of your Laravel application and /api/documentation with the correct route for accessing the Swagger documentation based on your configuration.
 
-How to run the tests.
-how show only how to swagger ui in api documentation , especially for on where to add the access token for login
+## How to run the tests.
+I show only how to use swagger ui in api documentation , especially for on where to add the access token for login
 
 ```bash
 https://megascrypto.com/public/video/apexnetwork.mov
